@@ -14,6 +14,7 @@
 		DFA0710C1CE619E600038DC8 /* YDJDUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA0710B1CE619E600038DC8 /* YDJDUITests.m */; };
 		DFA0711D1CE6352A00038DC8 /* mainViewcontroller.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA0711C1CE6352A00038DC8 /* mainViewcontroller.m */; };
 		DFA071211CE63C2800038DC8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA071201CE63C2800038DC8 /* Images.xcassets */; };
+		DFA146761CFBF88300A5EA38 /* Default-568.png in Resources */ = {isa = PBXBuildFile; fileRef = DFA146751CFBF88300A5EA38 /* Default-568.png */; };
 		DFD179B21CE9650D000E0C72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFD179B11CE9650D000E0C72 /* Main.storyboard */; };
 		DFD179B41CE97961000E0C72 /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DFD179B31CE97961000E0C72 /* NetworkExtension.framework */; };
 /* End PBXBuildFile section */
@@ -51,6 +52,7 @@
 		DFA0711B1CE6352A00038DC8 /* mainViewcontroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mainViewcontroller.h; sourceTree = "<group>"; };
 		DFA0711C1CE6352A00038DC8 /* mainViewcontroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mainViewcontroller.m; sourceTree = "<group>"; };
 		DFA071201CE63C2800038DC8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DFA146751CFBF88300A5EA38 /* Default-568.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568.png"; sourceTree = "<group>"; };
 		DFD179B11CE9650D000E0C72 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		DFD179B31CE97961000E0C72 /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = System/Library/Frameworks/NetworkExtension.framework; sourceTree = SDKROOT; };
 		DFD179B51CE97979000E0C72 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
@@ -156,6 +158,7 @@
 				DFA070EA1CE619E600038DC8 /* AppDelegate.m */,
 				DFA070F41CE619E600038DC8 /* LaunchScreen.storyboard */,
 				DFD179B11CE9650D000E0C72 /* Main.storyboard */,
+				DFA146751CFBF88300A5EA38 /* Default-568.png */,
 				DFA070F71CE619E600038DC8 /* Info.plist */,
 				DFA070E61CE619E600038DC8 /* Supporting Files */,
 			);
@@ -269,6 +272,7 @@
 				DFD179B21CE9650D000E0C72 /* Main.storyboard in Resources */,
 				DFA070F61CE619E600038DC8 /* LaunchScreen.storyboard in Resources */,
 				DFA071211CE63C2800038DC8 /* Images.xcassets in Resources */,
+				DFA146761CFBF88300A5EA38 /* Default-568.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
